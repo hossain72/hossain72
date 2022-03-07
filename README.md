@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ... Md. Anowar. Hossain (Rifat)
+- 👋 Hi, I’m ... Md. Anowar Hossain (Rifat)
 - 👀 I’m interested in ... Mobile App Development (Flutter)
 - 🌱 I’m currently learning ... Flutter Bloc, Clean Architecture and node.js
 - 💞️ I’m looking to collaborate on ... Flutter
