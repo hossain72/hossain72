@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on ... Flutter
 - 📫 How to reach me ... [Email] (hossainanowar72@gmail.com)
 - 📫 How to reach me ... [LinkedIn] (https://www.linkedin.com/in/hossain72/)
-- 📫 How to reach me ... [Mobile Number] (+8801752867007)
 
 <!---
 hossain72/hossain72 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
