@@ -61,7 +61,11 @@
       <img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white">
    </a>
    <a href="mailto:hossainanowar72@gmail.com">
-      <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white">
+      <img alt="Gmail 1" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white">
+   </a>
+   
+   <a href="mailto:anowar.hossain.riseuplabs@gmail.com">
+      <img alt="Gmail 2" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white">
    </a>
 </p>
 
