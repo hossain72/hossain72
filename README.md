@@ -6,6 +6,16 @@
 
 <b>Skills - </b> Dart, Java, Kotlin, Native Android, Flutter, Material Design, Firebase, API Integration, Websocket Integration, State Management (Provider, Getx, Bloc), Notification, Map Integration.
 
+<h3>Architecture & Principles</h3>
+<p>
+  <img src="https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-%23007ACC?style=for-the-badge&logo=abstract&logoColor=white" />
+  <img src="https://img.shields.io/badge/MVVM-%2300C853.svg?style=for-the-badge&logo=architecture&logoColor=white" />
+  <img src="https://img.shields.io/badge/SOLID-Principles-%23F9A825?style=for-the-badge&logo=solid&logoColor=white" />
+  <img src="https://img.shields.io/badge/Singleton-Pattern-%23007ACC?style=for-the-badge&logo=patternfly&logoColor=white" />
+  <img src="https://img.shields.io/badge/KISS-Keep%20It%20Simple-%23F4511E?style=for-the-badge&logo=kisspng&logoColor=white" />
+  <img src="https://img.shields.io/badge/DRY-Don't%20Repeat%20Yourself-%239C27B0?style=for-the-badge&logo=dyrectorio&logoColor=white" />
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hossain72&label=Profile%20views&color=0e75b6&style=flat" alt="hossain72" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hossain72" alt="hossain72" /></a> </p>
