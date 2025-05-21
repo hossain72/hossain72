@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MD. ANOWAR HOSSAIN</h1>
 
 <p align="justify">
-   Mobile Developer with 5 years of Flutter and 2 years of Native Android (Kotlin) software development experience. Currently a Software Engineer at Riseup Labs, specializing in building scalable, testable apps, API integration, and problem-solving. Quick learner, adaptable, and efficient at handling multiple projects under pressure.
+   As a Mobile Developer with 5 years of professional experience in Flutter and Native Android (Kotlin) development. Currently working as a Software Engineer at Riseup Labs, with a proven track record of delivering scalable, maintainable, and high-performance mobile applications. Skilled in API integration, clean architecture, and writing testable code. Recognized for the ability to quickly learn new technologies, adapt to evolving requirements, and efficiently manage multiple projects in fast-paced environments.
 </p>
 
 <b>Skills - </b> Dart, Java, Kotlin, Native Android, Flutter, Material Design, Firebase, API Integration, Websocket Integration, State Management (Provider, Getx, Bloc), Notification, Map Integration.
