@@ -101,20 +101,21 @@ Skilled in building testable applications with a focus on performance, UI/UX, an
 - ✅ YouTube Player & Chart Libraries Integration
 
 ## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hossain72&theme=darkhub&no-frame=true&row=1&column=7" alt="hossain72" />
-</p>
+
+<div align="center">
+  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hossain72&theme=darkhub&no-frame=true&row=1&column=7)
+
+</div>
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hossain72&show_icons=true&theme=tokyonight&locale=en" alt="hossain72" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hossain72&theme=tokyonight" alt="hossain72" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hossain72&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="hossain72" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=hossain72&show_icons=true&locale=en&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hossain72&show_icons=true&locale=en)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hossain72&)
+</div>
 
 ## 📫 Contact Me
 
@@ -146,12 +147,5 @@ Skilled in building testable applications with a focus on performance, UI/UX, an
 
 <p align="center">
   <i>💡 Open to collaborating on interesting Flutter and Android projects!</i>
-</p>
-
-
-<p>
-  <img  width="27%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hossain72&show_icons=true&locale=en&layout=compact" alt="hossain72" />
-   <img width="35%"  src="https://github-readme-stats.vercel.app/api?username=hossain72&show_icons=true&locale=en" alt="hossain72" />
-   <img  width="37%" src="https://github-readme-streak-stats.herokuapp.com/?user=hossain72&" alt="hossain72" />
 </p>
 
